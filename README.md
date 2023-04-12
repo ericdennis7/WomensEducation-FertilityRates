@@ -6,7 +6,8 @@ As a staunch advocate of education, particularly for women, I have been contempl
 
 <h2>Questions to Study</h2>
 
-- Has the rate of education among women increased around the world in recent years?
-- What 
+- Is there a correlation between higher levels of education among women and lower fertility rates?
+- How have trends in women's education and fertility rates evolved over time, and what implications does this have for future population growth?
+- Could there be a cultural link between education and birth rates?
 
 <h2>TLDR</h2>
