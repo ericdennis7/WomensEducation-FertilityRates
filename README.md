@@ -10,4 +10,21 @@ As a staunch advocate of education, particularly for women, I have been contempl
 - How have trends in women's education and fertility rates evolved over time, and what implications does this have for future population growth?
 - Could there be a cultural link between education and birth rates?
 
+<h2>Dataset and Project Information</h2>
+
+The dataset being used in this study is from Kaggle: <a href = "https://www.kaggle.com/datasets/valchovalev/womenseducationalattainmentvsfertility?resource=download">Women's Educational Attainment vs Fertility</a>
+
+Software/Tools Being Used:
+- Python
+  - Plotly
+  - PYODBC
+- CSV
+
+<i>* I will not be creating a dashboard for this project, but rather analyze data using visuals via the Plotly Python library *</i>
+
+
+
+
+
+
 <h2>TLDR</h2>
