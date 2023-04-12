@@ -20,7 +20,7 @@ Software/Tools Being Used:
   - PYODBC
 - CSV
 
-<i><b>* I will not be creating a dashboard for this project due to the limited data, but rather analyze data using visuals via the Plotly Python library *</b></i>
+<i><b>* Since there is a limited amount of data available, I will not be creating a dashboard for this project. Instead, I will be analyzing the data using visualizations created with the Plotly Python library. *</b></i>
 
 
 
