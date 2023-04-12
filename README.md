@@ -13,13 +13,13 @@ As a <i>staunch</i> advocate of education, particularly for women, I have been c
 
 <h3>Dataset and Project Information</h3>
 
-The dataset being used in this study is from Kaggle: <a href = "https://www.kaggle.com/datasets/valchovalev/womenseducationalattainmentvsfertility?resource=download">Women's Educational Attainment vs Fertility</a>
+Original Dataset Link: <a href = "https://www.kaggle.com/datasets/valchovalev/womenseducationalattainmentvsfertility?resource=download">Women's Educational Attainment vs Fertility</a>
 
 Software/Tools Being Used:
 - Python
   - Plotly
   - PYODBC
-- CSV
+- <a>womens-educational-attainment-vs-fertility.csv</a>
 
 <i><b>* Since there is a limited amount of data available, I will not be creating a dashboard for this project. Instead, I will be analyzing the data using visualizations created with the Plotly Python library. *</b></i>
 
