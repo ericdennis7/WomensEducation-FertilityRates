@@ -1,4 +1,4 @@
-<h1>The Impact of Education on Women's Fertility Rates</h1>
+<h1>👩‍🍼 The Impact of Education on Women's Fertility Rates</h1>
 
 <h2>Information About the Study</h2>
 <h3>A Brief Introduction</h3>
@@ -23,7 +23,7 @@ Software/Tools Being Used:
 
 <i><b>* Since there is a limited amount of data available, I will not be creating a dashboard for this project. Instead, I will be analyzing the data using visualizations created with the Plotly Python library. *</b></i>
 
-<h2>The Study</h2>
+<h2>🔍 The Study</h2>
 
 
 
