@@ -1,4 +1,4 @@
-<h1>The Impact of Education on Women's Fertility Rates Globally</h1>
+<h1>The Impact of Education on Women's Fertility Rates (Globally)</h1>
 
 <h2>ℹ️ Information About the Study</h2>
 <h3>A Brief Introduction</h3>
