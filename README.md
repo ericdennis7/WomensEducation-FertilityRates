@@ -25,7 +25,7 @@ Software/Tools Being Used:
 
 <h2>🔍 The Study</h2>
 
-<iframe src="https://cdn.jsdelivr.net/gh/ericdennis7/WomensEducation-FertilityRates@main/my_graph.html?token=GHSAT0AAAAAACBJCX3NEV7UXSUBS5ET2DF2ZBYGTYA" width="100%" height="500px"></iframe>
+<iframe src="https://cdn.jsdelivr.net/gh/ericdennis7/WomensEducation-FertilityRates@main/my_graph.html" width="100%" height="500px"></iframe>
 
 
 
