@@ -25,7 +25,7 @@ Software/Tools Being Used:
 
 <h2>🔍 The Study</h2>
 
-<iframe src="https://cdn.jsdelivr.net/gh/ericdennis7/WomensEducation-FertilityRates@main/my_graph.html" width="100%" height="500px"></iframe>
+PowerBI Dashboard: <a href="https://app.powerbi.com/view?r=eyJrIjoiOWQyOTg5ZDItOTk1OC00NmMyLTkwM2UtNTYzNWNkYTI0YzIwIiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9"></a>
 
 
 
