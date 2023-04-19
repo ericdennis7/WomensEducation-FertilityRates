@@ -15,9 +15,8 @@ Original Dataset Link: <a href = "https://www.kaggle.com/datasets/valchovalev/wo
 
 Software/Tools Being Used:
 - Python
-  - Plotly
-  - PYODBC
-- <a>womens-educational-attainment-vs-fertility.csv</a>
+  - Pandas
+- PowerBI
 
 <i><b>* Since there is a limited amount of data available, I will not be creating a dashboard for this project. Instead, I will be analyzing the data using visualizations created with the Plotly Python library. *</b></i>
 
