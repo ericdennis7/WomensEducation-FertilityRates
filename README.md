@@ -46,7 +46,7 @@ To enable the user to research the data more in-depth, I also created two slicer
 
 Overall, the data visualization in PowerBI offers a clear and concise presentation of the information, allowing for a more comprehensive understanding of the data's relationship between fertility rates, education levels, and population.
 
-![WomensEducation-vs-Fertility-PowerBI](https://user-images.githubusercontent.com/130507070/233106646-41184632-5f3f-4132-815a-8ec4116e835f.png)
+![PowerBI Image](https://user-images.githubusercontent.com/130507070/233108107-c7a2d173-2230-402e-a222-b9945382636e.png)
 Figure 1
 
 <h3>Intepreting the Data and Answering Proposed Questions</h3>
