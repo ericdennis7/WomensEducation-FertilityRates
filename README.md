@@ -22,7 +22,7 @@ Software/Tools Being Used:
 
 <i><b>* Since there is a limited amount of data available, I will not be creating a dashboard for this project. Instead, I will be analyzing the data using visualizations created with the Plotly Python library. *</b></i>
 
-<h2>🔍 The Study (Process)</h2>
+<h2>🔍 The Study (Full Process)</h2>
 
 <b>PowerBI Dashboard:</b> <a href="https://app.powerbi.com/view?r=eyJrIjoiOWQyOTg5ZDItOTk1OC00NmMyLTkwM2UtNTYzNWNkYTI0YzIwIiwidCI6ImU0YTdiMmYwLTRkM2QtNDI0OC05YTdiLWEyNjQ4ZTIzN2MxNSIsImMiOjF9">Fertility Rate vs. Education Level</a>
 
