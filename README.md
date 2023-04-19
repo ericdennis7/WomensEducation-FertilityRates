@@ -50,7 +50,7 @@ Figure 1: An example of Australia.
 
 <h3>Intepreting the Data and Answering Proposed Questions</h3>
 
-<b>Question 1: Is there a correlation between higher levels of education among women and lower fertility rates?</b>
+<b>Question: Is there a correlation between higher levels of education among women and lower fertility rates?</b>
 
 In essence, there is a compelling correlation between lower fertility rates and higher education levels. Upon examining the world line chart, a discernible upward trend in education emerges around the 1960s, coinciding with a corresponding, steady decline in fertility rates. This pattern is apparent throughout the rest of the chart: the faster and higher education levels rise, the lower fertility rates become.
 
