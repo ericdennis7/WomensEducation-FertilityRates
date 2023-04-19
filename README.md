@@ -36,7 +36,15 @@ Finally, I exported the cleaned data back into the CSV file and uploaded it into
   
 <h3>Creating Visualizations Using Power</h3>
 
-Firstly, I uploaded the cleaned data into PowerBI. I decided to go with a simple and minimilastic format so as not to crowd the viewer with information overload. 
+After cleaning the data, I proceeded to upload it into PowerBI. To ensure a clear and concise presentation, I opted for a simple and minimalist layout, which included three cards displaying the fertility rate, primary education level in years, and population of the world/selected countries.
+
+In addition to the cards, I created two orthographic maps to visualize the fertility rates and education levels across the globe. These maps provide a comprehensive view of the data, making it easier to identify trends and patterns (see figure 1 below).
+
+To further explore the correlation between fertility rates and education levels, I created a scatter plot. The scatter plot showcased the relationship between these two variables with bubble sizes representing the country's population. Additionally, I added two buttons that allow the user to switch between a scatter plot for a global view and a line graph to analyze a country's rate in more depth.
+
+To enable the user to research the data more in-depth, I also created two slicers that allow for the selection of a specific year and country (or all countries) to refine the data. These slicers make it easier to analyze trends and patterns, providing a more interactive and user-friendly experience.
+
+Overall, the data visualization in PowerBI offers a clear and concise presentation of the information, allowing for a more comprehensive understanding of the data's relationship between fertility rates, education levels, and population.
 
 
 <h2>💤 TLDR</h2>
