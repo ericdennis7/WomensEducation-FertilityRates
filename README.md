@@ -45,7 +45,7 @@ To enable the user to research the data more in-depth, I also created two slicer
 Overall, the data visualization in PowerBI offers a clear and concise presentation of the information, allowing for a more comprehensive understanding of the data's relationship between fertility rates, education levels, and population.
 
 ![PowerBI](https://user-images.githubusercontent.com/130507070/233139718-7af1d270-51d3-4f02-9ff1-6ed82e7a014e.png)
-Figure 1: An example of Australia.
+<b><i>Figure 1: An example of Australia.</i></b>
 
 <h3>Intepreting the Data and Answering Proposed Questions</h3>
 
@@ -56,7 +56,7 @@ In essence, there is a compelling correlation between lower fertility rates and 
 This phenomenon is further supported by the scatter plot, which reveals that in 1950, the vast majority of countries had high fertility rates (~55% had above a fertility rate of 5) and lower education levels (Figure 2), but by 2010, most countries had lower fertility rates (75% had below a fertility rate of 5) and higher education levels (Figure 3). Visualizing these trends in the accompanying photos should help users better grasp this relationship.
 
 ![1950](https://user-images.githubusercontent.com/130507070/233199058-44188dfc-ccdc-492f-8e06-86e2b09d73b3.png)
-<b><i>Figure 2</i><b>
+<b><i>Figure 2: Scatter of 1950</i><b>
 
 
 
