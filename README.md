@@ -27,7 +27,7 @@ Software/Tools Being Used:
 
 <h3>Obtaining and Cleaning the Data</h3>
 
-To start the data cleaning process, I downloaded the Women's Education vs Fertility dataset from Kaggle. Using pandas in Python, I initiated the cleaning process by removing all countries that did not exist in 2010. To accomplish this, I utilized AI to create a list of present-day countries and cross-checked it with the CSV dataset using pandas. This ensured that only relevant countries were included in the analysis.
+To start the data cleaning process, I downloaded the Women's Education vs Fertility dataset from Kaggle. Using pandas in Python, I initiated the cleaning process by removing all countries that did not exist in 2010 (<a href="WomensEDU_vs_FR_Pandas.py">Python Script</a>). To accomplish this, I utilized AI to create a list of present-day countries and cross-checked it with the CSV dataset using pandas. This ensured that only relevant countries were included in the analysis.
 
 After filtering out the unnecessary countries, I further cleaned the data by refining the year column to only include years where both the fertility rate and education levels were tracked. This ensured that the resulting visualization tools were more informative and precise. Additionally, I rounded and grouped the data based on year and country to improve the data's readability and clarity.
 
