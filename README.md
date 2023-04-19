@@ -28,11 +28,11 @@ Software/Tools Being Used:
 
 <h3>Obtaining and Cleaning the Data</h3>
 
-  To begin, I first downloaded the dataset from Kaggle on WOmen's Education vs Fertitlity. I then used pandas in Python to clean the data. The first step of the cleaning process was to remove all countries that are not currently around in 2010. I managed to do this by using AI to form a list of present day countries and used pandas to check if the country was in the CSV dataset file. If the country was not in the present day country list, it was removed.
+To start the data cleaning process, I downloaded the Women's Education vs Fertility dataset from Kaggle. Using pandas in Python, I initiated the cleaning process by removing all countries that did not exist in 2010. To accomplish this, I utilized AI to create a list of present-day countries and cross-checked it with the CSV dataset using pandas. This ensured that only relevant countries were included in the analysis.
 
-Next, I cleaned the year column to only include values where years where both the fertility rate and education levels were tracked to create clearer visualizations tools. Furthermore, I cleaned the data by rounding and grouping values based on year and country.
- 
-Finally, I exported the clean data back into the CSV file to be uploaded into PowerBI to create visualizations.
+After filtering out the unnecessary countries, I further cleaned the data by refining the year column to only include years where both the fertility rate and education levels were tracked. This ensured that the resulting visualization tools were more informative and precise. Additionally, I rounded and grouped the data based on year and country to improve the data's readability and clarity.
+
+Finally, I exported the cleaned data back into the CSV file and uploaded it into PowerBI to create visually appealing, interactive, and informative visualizations.
   
 <h3>Creating Visualizations Using Power</h3>
 
