@@ -53,13 +53,14 @@ Overall, the data visualization in PowerBI offers a clear and concise presentati
 
 In essence, there is a compelling correlation between lower fertility rates and higher education levels. Upon examining the world line chart, a discernible upward trend in education emerges around the 1960s, coinciding with a corresponding, steady decline in fertility rates. This pattern is apparent throughout the rest of the chart: the faster and higher education levels rise, the lower fertility rates become.
 
+![1950](https://user-images.githubusercontent.com/130507070/233199058-44188dfc-ccdc-492f-8e06-86e2b09d73b3.png)
+<b><i>Figure 2: Scatter of 1950</i></b>
+
 This phenomenon is further supported by the scatter plot, which reveals that in 1950, the vast majority of countries had high fertility rates (~55% had above a fertility rate of 5) and lower education levels (Figure 2), but by 2010, most countries had lower fertility rates (75% had below a fertility rate of 5) and higher education levels (Figure 3). Visualizing these trends in the accompanying photos should help users better grasp this relationship.
 
-![1950](https://user-images.githubusercontent.com/130507070/233199058-44188dfc-ccdc-492f-8e06-86e2b09d73b3.png)
-<b><i>Figure 2: Scatter of 1950</i><b>
-
-
-
+![2010](https://user-images.githubusercontent.com/130507070/233199557-f517d831-4d7d-4107-9216-c1d1844c7a1b.png)
+<b><i>Figure 3: Scatter of 2010</i>/<b>
+  
 In conclusion, the data shows a clear and significant relationship between fertility rates and education levels in women. In 1950, the average fertility rate was 5.39 and the average primary education level was only 2.77 years. However, by 2010, there was a remarkable 59.5% drop in the average fertility rate, at 2.92 children per women, and a 104.2% rise in education levels, with an average of 8.8 years of primary education. This rapid change took place over just 70 years. Based on the formula (Average drop per educational year = (5.39 - 2.92) / (8.8 - 2.77)), we can estimate that for every additional year of education, the fertility rate dropped by 0.41. This stark constrast can especially be seen with Australia in Figure 1.
 
 <b>What can we do with this data?</b>
