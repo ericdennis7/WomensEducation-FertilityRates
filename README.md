@@ -36,7 +36,10 @@ Finally, I exported the cleaned data back into the CSV file and uploaded it into
 
 After cleaning the data, I proceeded to upload it into PowerBI. To ensure a clear and concise presentation, I opted for a simple and minimalist layout, which included three cards displaying the fertility rate, primary education level in years, and population of the world/selected countries.
 
-In addition to the cards, I created two orthographic maps to visualize the fertility rates and education levels across the globe. These maps provide a comprehensive view of the data, making it easier to identify trends and patterns (see figure 1 below).
+In addition to the cards, I created two orthographic maps to visualize the fertility rates and education levels across the globe. These maps provide a comprehensive view of the data, making it easier to identify trends and patterns (Figure 1).
+
+![Ortho](https://user-images.githubusercontent.com/130507070/233200038-fe722c57-732a-4f23-9ab1-78ded1362fa2.png)
+<b><i>Figure 1: Orthogeographic maps of fertility rates and education levels.</i></b>
 
 To further explore the correlation between fertility rates and education levels, I created a scatter plot. The scatter plot showcased the relationship between these two variables with bubble sizes representing the country's population. Additionally, I added two buttons that allow the user to switch between a scatter plot for a global view and a line graph to analyze a country's rate in more depth.
 
@@ -45,7 +48,7 @@ To enable the user to research the data more in-depth, I also created two slicer
 Overall, the data visualization in PowerBI offers a clear and concise presentation of the information, allowing for a more comprehensive understanding of the data's relationship between fertility rates, education levels, and population.
 
 ![PowerBI](https://user-images.githubusercontent.com/130507070/233139718-7af1d270-51d3-4f02-9ff1-6ed82e7a014e.png)
-<b><i>Figure 1: An example of Australia.</i></b>
+<b><i>Figure 2: An example of Australia.</i></b>
 
 <h3>Intepreting the Data and Answering Proposed Questions</h3>
 
@@ -54,14 +57,14 @@ Overall, the data visualization in PowerBI offers a clear and concise presentati
 In essence, there is a compelling correlation between lower fertility rates and higher education levels. Upon examining the world line chart, a discernible upward trend in education emerges around the 1960s, coinciding with a corresponding, steady decline in fertility rates. This pattern is apparent throughout the rest of the chart: the faster and higher education levels rise, the lower fertility rates become.
 
 ![1950](https://user-images.githubusercontent.com/130507070/233199058-44188dfc-ccdc-492f-8e06-86e2b09d73b3.png)
-<b><i>Figure 2: Scatter of 1950</i></b>
+<b><i>Figure 3: Scatter of 1950</i></b>
 
-This phenomenon is further supported by the scatter plot, which reveals that in 1950, the vast majority of countries had high fertility rates (~55% had above a fertility rate of 5) and lower education levels (Figure 2), but by 2010, most countries had lower fertility rates (75% had below a fertility rate of 5) and higher education levels (Figure 3). Visualizing these trends in the accompanying photos should help users better grasp this relationship.
+This phenomenon is further supported by the scatter plot, which reveals that in 1950, the vast majority of countries had high fertility rates (~55% had above a fertility rate of 5) and lower education levels (Figure 3), but by 2010, most countries had lower fertility rates (75% had below a fertility rate of 5) and higher education levels (Figure 4). Visualizing these trends in the accompanying photos should help users better grasp this relationship.
 
 ![2010](https://user-images.githubusercontent.com/130507070/233199557-f517d831-4d7d-4107-9216-c1d1844c7a1b.png)
-<b><i>Figure 3: Scatter of 2010</i></b>
+<b><i>Figure 4: Scatter of 2010</i></b>
   
-In conclusion, the data shows a clear and significant relationship between fertility rates and education levels in women. In 1950, the average fertility rate was 5.39 and the average primary education level was only 2.77 years. However, by 2010, there was a remarkable 59.5% drop in the average fertility rate, at 2.92 children per women, and a 104.2% rise in education levels, with an average of 8.8 years of primary education. This rapid change took place over just 70 years. Based on the formula (Average drop per educational year = (5.39 - 2.92) / (8.8 - 2.77)), we can estimate that for every additional year of education, the fertility rate dropped by 0.41. This stark constrast can especially be seen with Australia in Figure 1.
+In conclusion, the data shows a clear and significant relationship between fertility rates and education levels in women. In 1950, the average fertility rate was 5.39 and the average primary education level was only 2.77 years. However, by 2010, there was a remarkable 59.5% drop in the average fertility rate, at 2.92 children per women, and a 104.2% rise in education levels, with an average of 8.8 years of primary education. This rapid change took place over just 70 years. Based on the formula (Average drop per educational year = (5.39 - 2.92) / (8.8 - 2.77)), we can estimate that for every additional year of education, the fertility rate dropped by 0.41. This stark constrast can especially be seen with Australia in Figure 2.
 
 <b>What can we do with this data?</b>
 
