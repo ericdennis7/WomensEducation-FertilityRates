@@ -3,7 +3,7 @@
 <h2>ℹ️ Information About the Study</h2>
 <h3>A Brief Introduction</h3>
 
-As a <i>staunch</i> advocate of education, particularly for women, I have been contemplating the impact of education on the birth rate of women worldwide. The latest news reports indicate that Japan is grappling with a dire fertility crisis, with its birth rate failing to keep pace with the death rate. This has coincided with an increase in women's education. This has resulted in significant economic, social, and governmental challenges. I can't help but wonder if the growing prevalence of women's education is a contributing factor to this crisis. This study researches global patterns to see if there is a correlation among women's fertility rates and their average education level.
+As a <i>staunch</i> advocate of education, particularly for women, I have been contemplating the impact of education on the birth rate of women worldwide. As of lately, there have been growing concerns for overpopulation, espcially in underdeveloped countries such as those in Afirca and Asia. So, does higher education lead to lower fertility rates? Would increasing resources in female education lead to a healthier global population? This study researches global patterns to see if there is a correlation among women's fertility rates and their average education level.
 
 <h3>Question to Study</h3>
 
@@ -17,8 +17,6 @@ Software/Tools Being Used:
 - Python
   - Pandas
 - PowerBI
-
-<i><b>* Since there is a limited amount of data available, I will not be creating a dashboard for this project. Instead, I will be analyzing the data using visualizations created with the Plotly Python library. *</b></i>
 
 <h2>🔍 The Study (Full Process)</h2>
 
@@ -64,7 +62,7 @@ This phenomenon is further supported by the scatter plot, which reveals that in 
 ![2010](https://user-images.githubusercontent.com/130507070/233199557-f517d831-4d7d-4107-9216-c1d1844c7a1b.png)
 <b><i>Figure 4: Scatter of 2010</i></b>
   
-In conclusion, the data shows a clear and significant relationship between fertility rates and education levels in women. In 1950, the average fertility rate was 5.39 and the average primary education level was only 2.77 years. However, by 2010, there was a remarkable 59.5% drop in the average fertility rate, at 2.92 children per women, and a 104.2% rise in education levels, with an average of 8.8 years of primary education. This rapid change took place over just 70 years. Based on the formula (Average drop per educational year = (5.39 - 2.92) / (8.8 - 2.77)), we can estimate that for every additional year of education, the fertility rate dropped by 0.41. This stark constrast can especially be seen with Australia in Figure 2.
+In conclusion, the data shows a clear and significant relationship between fertility rates and education levels in women. In 1950, the average fertility rate was 5.39 and the average primary education level was only 2.77 years. However, by 2010, there was a remarkable 45.8% drop in the average fertility rate, at 2.92 children per women, and a 217.7% rise in education levels, with an average of 8.8 years of primary education. This rapid change took place over just 70 years. Based on the formula (Average drop per educational year = (5.39 - 2.92) / (8.8 - 2.77)), we can estimate that for every additional year of education, the fertility rate dropped by 0.41. This stark constrast can especially be seen with Australia in Figure 2.
 
 <b>What can we do with this data?</b>
 
@@ -74,6 +72,6 @@ So, as the data shows above, we need to continue to invest in female education. 
 
 <h2>💤 Conclusion / TLDR</h2>
 
-I cleaned and analyzed the Women's Education vs Fertility dataset, which I downloaded from Kaggle and utilized pandas in Python to remove countries that didn't exist in 2010, refined the year column to include only tracked fertility rate and education levels, and rounded and grouped the data based on year and country. I then exported the cleaned data to a CSV file and created simple and minimalist visualizations in PowerBI, including two orthographic maps, a scatter plot, two slicers, and three cards displaying the fertility rate, primary education level in years, and population of the world/selected countries. Finally, I concluded that there is a correlation between higher levels of education among women and lower fertility rates and that investing in female education is necessary to maintain a healthy population. These findings are summed up with the following statistics:
+I cleaned and analyzed the Women's Education vs Fertility dataset, which I downloaded from Kaggle and utilized pandas in Python to remove countries that didn't exist in 2010, refined the year column to include only tracked fertility rate and education levels, and rounded and grouped the data based on year and country. I then exported the cleaned data to a CSV file and created simple and minimalist visualizations in PowerBI, including two orthographic maps, a scatter plot, a line chart, two slicers, and three cards displaying the fertility rate, primary education level in years, and population of the world/selected countries. Finally, I concluded that there is a correlation between higher levels of education among women and lower fertility rates and that investing in female education is necessary to maintain a healthy population. These findings are summed up with the following statistics:
 
-  - In 1950, the average fertility rate was 5.39 and the average primary education level was only 2.77 years. However, by 2010, there was a remarkable 59.5% drop in the average fertility rate, at 2.92 children per women, and a 104.2% rise in education levels, with an average of 8.8 years of primary education. This rapid change took place over just 70 years. Based on the formula (Average drop per educational year = (5.39 - 2.92) / (8.8 - 2.77)), we can estimate that for every additional year of education, the fertility rate dropped by 0.41.
+  - In 1950, the average fertility rate was 5.39 and the average primary education level was only 2.77 years. However, by 2010, there was a remarkable 45.8% drop in the average fertility rate, at 2.92 children per women, and a 217.7% rise in education levels, with an average of 8.8 years of primary education. This rapid change took place over just 70 years. Based on the formula (Average drop per educational year = (5.39 - 2.92) / (8.8 - 2.77)), we can estimate that for every additional year of education, the fertility rate dropped by 0.41.
