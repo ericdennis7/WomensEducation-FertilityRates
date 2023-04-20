@@ -3,7 +3,7 @@
 <h2>ℹ️ Information About the Study</h2>
 <h3>A Brief Introduction</h3>
 
-As a <i>staunch</i> advocate of education, particularly for women, I have been contemplating the impact of education on the birth rate of women worldwide. As of lately, there have been growing concerns for overpopulation, espcially in underdeveloped countries such as those in Afirca and Asia. So, does higher education lead to lower fertility rates? Would increasing resources in female education lead to a healthier global population? This study researches global patterns to see if there is a correlation among women's fertility rates and their average education level.
+As a <i>staunch</i> advocate of education, particularly for women, I have been contemplating the impact of education on the fertility rate of women worldwide. As of lately, there have been growing concerns about overpopulation, especially in underdeveloped countries such as those in Afirca and Asia. So, does higher education lead to lower fertility rates? Would increasing resources in female education lead to a healthier global population? This study researches global patterns to see if there is a correlation among women's fertility rates and their average education level.
 
 <h3>Question to Study</h3>
 
